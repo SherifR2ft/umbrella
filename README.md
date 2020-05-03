@@ -15,7 +15,7 @@ find out the live weather data in the current location of the device as well as 
 
 a Weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). 
 
-![Finished App](https://github.com/SherifR2ft/Images/blob/master/Images/Umbrella-demo.gif)
+![Finished App](https://github.com/SherifR2ft/Images/blob/master/Images/Umbrella-flutter-demo.gif)
 
 ## What I use in this App.
 
