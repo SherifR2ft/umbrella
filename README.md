@@ -11,13 +11,11 @@ VCS → Checkout from Version Control → Git.
 Weather app Using Flutter Framework,  
 find out the live weather data in the current location of the device as well as the weather for any city you can think of! 
 
-## What we created
-
-a Weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). 
+inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). 
 
 ![Finished App](https://github.com/SherifR2ft/Images/blob/master/Images/Umbrella-flutter-demo.gif)
 
-## What I use in this App.
+## What we use in this App.
 
 - Perform asynchronous tasks.
 - async and await.
